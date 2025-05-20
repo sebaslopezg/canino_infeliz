@@ -17,7 +17,7 @@ const DB_USER = "if0_37732983";
 const DB_PASSWORD = "4F0K4FfcW15";
 const DB_PORT = 3306; */
 
-const BASE_URL = "http://localhost/canino_infeliz";
+const BASE_URL = "http://168.231.112.194:8091";
 const DB_HOST = "localhost";
 const DB_NAME = "canino_infeliz";
 const DB_USER = "root";
